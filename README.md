@@ -1,6 +1,10 @@
 # pjgossamer.github.io
 Official Website
 
+## Notice 07/16/2020
+
+Project Gossamer's official page is moving from pjgossamer.github.io to Wix. More information from the blog (*todo: Add Blog*)
+
 ## Interested in joining?
 
 We're accepting people to join the Project Gossamer team! Be apart of something great!
